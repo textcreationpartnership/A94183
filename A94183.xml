@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon lately preached at Westminster, before sundry of the honourable House of Commons. By Joseph Symonds sometimes minster in Ironmonger-lane, London, now pastor of a church in Roterdam.</title>
+            <author>Symonds, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94183</idno>
+            <idno type="STC">Wing S6358</idno>
+            <idno type="STC">Thomason E165_10</idno>
+            <idno type="STC">ESTC R23172</idno>
+            <idno type="EEBO-CITATION">99871931</idno>
+            <idno type="PROQUEST">99871931</idno>
+            <idno type="VID">156974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156974)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E165[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon lately preached at Westminster, before sundry of the honourable House of Commons. By Joseph Symonds sometimes minster in Ironmonger-lane, London, now pastor of a church in Roterdam.</title>
+                  <author>Symonds, Joseph.</author>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Fawn, and are to be sold at his shop, at the signe of the Parrot in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [par]⁴, B⁴-D⁴, E² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 1st, XXVIII, 10 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156974:1"/>
+            <pb facs="tcp:156974:1" rendition="simple:additions"/>
+            <p>A SERMON LATELY PREACHED AT <hi>WESTMINSTER,</hi> BEFORE SUNDRY OF THE Honourable HOUSE of COMMONS.</p>
+            <p>By <hi>Joſeph Symonds</hi> ſometimes Mi<g ref="char:EOLhyphen"/>niſter in <hi>Ironmonger</hi>-lane, <hi>London,</hi> Now Paſtor of a Church in <hi>Roterdam.</hi>
+            </p>
+            <q>—Rejoycing, and beholding your order, <bibl>Col. <hi>2.5.</hi>
+               </bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Naz.</bibl>
+            </q>
+            <q>Nullibi gravius peccatur quam in politicis. <bibl>
+                  <hi>Dan. pol. pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aem.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed for <hi>Luke Fawn,</hi> and are to be ſold at his Shop, at the ſigne of the Parrot in <hi>Pauls</hi> Church-yard. 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156974:2"/>
+            <pb facs="tcp:156974:2"/>
+            <head>To the Honourable, the Knights, Citizens and Burgeſſes of the Commons Houſe of Parliament, now Aſſembled.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was a quick anſwer of him to a Painter, who ſhewing his Picture, ſaid he made it in a few houres, That he wondred he made not many ſuch in that time. But its not a vain covert of my weakneſſe, or idle hunt<g ref="char:EOLhyphen"/>ing after credit, but a juſt expreſſion of truth, if I ſay the time of my preparation of this Sermon for you, was a time of no ſmall di<g ref="char:EOLhyphen"/>ſtraction to me. Indeed as I judged my ſelfe unworthy to ſpeak in ſuch an audience, ſo I wonder that any in it ſhould ſo approve what was ſpoken, as to think it worthy of a longer life, then it had in the Pulpit. But ſince it muſt live longer then I intended, having no<g ref="char:EOLhyphen"/>thing in this matter to ſatisfie me, but my re<g ref="char:EOLhyphen"/>ſpects
+<pb facs="tcp:156974:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156974:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156974:4"/> to thoſe to whom I owe ſo much, I humbly preſent it to your honourable accep<g ref="char:EOLhyphen"/>tance. And ſhall ſtill pray him, who is wiſe<g ref="char:EOLhyphen"/>dome and Counſell, to lead you into all truth, that as great and ſtupendious works (wherein by the Vote of God and man, a large ſhare of of honour is allotted to you) have been done by you his Inſtruments; ſo you may happily proceed, till your wiſedome and zeal have crowned our hopes, and perfected your glory, that we and the generations yet unborne, may rejoyce in you, and bleſſe God for you, whom he hath raiſed to be the terror of his adverſa<g ref="char:EOLhyphen"/>ries, and Saviour of his people. Go on and proſper unparalleld Worthies, you have a a noble cauſe, and a confluence of incou<g ref="char:EOLhyphen"/>ragements from God, and man. See what you have done already, and mingle your ſtreams of joy with the flouds of all your Saints ere while drowned in tears and ſor<g ref="char:EOLhyphen"/>rows, but now floating in joy and triumph. Behold the Faces of the Saints, whoſe tears you have wiped away, and ſee in the light and cheerfulneſſe of their viſſages the bleſſed fruits of your goodneſſe, wiſedome, juſtice and courage. Let their reviving adde ſtill to
+<pb facs="tcp:156974:4"/> your living Spirits? What can be more ſola<g ref="char:EOLhyphen"/>tious to a Chriſtian Spirit, then to ſee the dy<g ref="char:EOLhyphen"/>ing Saints reviving, and inſolent oppreſſors dyi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g? What better then at once, to ſee our Kingdom enhappied, and Chriſt advan<g ref="char:EOLhyphen"/>ced? Let your hearts feed themſelves to ful<g ref="char:EOLhyphen"/>neſſe in theſe things, to you belongs a double portion. Its better to do good then to receive: we are but the Ceſterns, you have the honor to be our living Springs, yet we moſt honor the Sea of goodneſſe, who iſſues through you upon us.</p>
+            <p>I am ready for the things which I have al<g ref="char:EOLhyphen"/>ready ſeen to ſay, as <hi>Jacob,</hi> when he received his ſonne, as from the dead, <hi>I have enough.</hi> And doubtleſſe, if our eyes ſhall be ſo bleſſed, as to ſee the Churches of Chriſt in their right order, and ſhining in their proper beau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and power, we ſhall be as thoſe that dream. Oh that our want of love to Chriſt, and to each other may not deprive us of this Crown of our rejoycing. And oh that in much love and ſingleneſſe of Spirit, all that are the reall friends of Chriſt, would with mutuall em<g ref="char:EOLhyphen"/>braces, and conjunct hearts, heads and hands help to give birth to this glorious work. He
+<pb facs="tcp:156974:5"/> were better be in his grave, who in ſuch a ſeaſon as this, is either an impediment or a ſhaddow.</p>
+            <p>Different opinions are no juſt excuſe of diſſenting affections, opinions ſhould not be quench-coales of love, which are not deſtru<g ref="char:EOLhyphen"/>ctive to life. And its ill ſervice to augment differences beyond neceſſity, or to aggravate them beyond equity. The Wiſedome which is from above, is peaceable; and ſurely love, and meekneſſe, would do much to one-nes. He that will exclude all that meet not pun<g ref="char:EOLhyphen"/>ctually in his judgement, muſt diſcard him<g ref="char:EOLhyphen"/>ſelf. Let us rather deviſe how farre we do, or may concenter, then ſtudiouſly to ſtand at a diſtance: We ſhall never be wholly, one with all in all; Yea, we are very diverſe from our ſelves. And true peace ariſeth not ſo much from inforced uniformity, as from a Candid unanimity. He that diſturbeth order, and cor<g ref="char:EOLhyphen"/>rupteth trueth, is unfit for a Chriſtian fellow<g ref="char:EOLhyphen"/>ſhip. But all that embrace godlineſſe and truth, and ſerve the peace of the Churches, may happily be copartners in each others privi<g ref="char:EOLhyphen"/>ledges. If this be the time of our deliverance
+<pb facs="tcp:156974:5"/> (which I pray and hope) he that is Truth and Love, will teach and meeken us; and he that is Almighty, will proſper you, that this mor<g ref="char:EOLhyphen"/>ning of hope, may riſe to a clear day of joy, which is the prayer of him, who is your Honours to ſerve you.</p>
+            <closer>
+               <signed>Joſeph Symonds.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:156974:6"/>
+            <pb facs="tcp:156974:6"/>
+            <head>A Sermon Preached before ſun<g ref="char:EOLhyphen"/>dry of the Commons Houſe of Parliament.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 CHRON. 28.10.</hi>
+               </bibl>
+               <q>Take heed now for the Lord hath choſen thee to build an houſe for the Sanctuarie. Be ſtrong and doe it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter and the next following are a Copie of the laſt ſpeech of the beſt King that ever was:<note place="margin">1 Chro. 23 27.</note> the ſpeech was <hi>Davids</hi> to <hi>Solomon</hi> his ſonne, and to the ſtate of the King<g ref="char:EOLhyphen"/>dome. I ſhall only treat of that part of it, which reſpected <hi>Solomon.</hi> The ſubject of it, is an houſe to be built for God. The occaſion of it was this. When <hi>David,</hi> by the good hand of God with him, had peace on every ſide, a calme after many ſtormes, hee did fall aſleepe in the lap of peace; but as mercies and receipts from God, are wont to work in the Saints thankfull returnes, ſo he now deviſeth what to doe for God, that had done ſo much for him, <hi>ver.</hi> 2. 2 <hi>Sam.</hi> 7, &amp;c. The time of this ſpeech hath a double mark upon it.</p>
+            <p n="1">1 It was in t me of Parliament, in a ſolemne aſſembly of the Princes of <hi>Iſrael,</hi> and the Princes of the Tribes, &amp;c. <hi>v r.</hi> 1. <hi>Davids</hi> end was to draw them to put their hands to this great work, which appeares by thoſe words, <hi>ver.</hi> 21. which are an expreſſion of his deſire, with confidence of their readineſſe, and in their hearing. <hi>Alſo the Princes and all the people will be wholly at thy com<g ref="char:EOLhyphen"/>mandment.</hi> Zeale will cry for help of all hands.</p>
+            <p n="2">
+               <pb facs="tcp:156974:7"/>2 It was in the end of his dayes, <hi>When hee was old and full of dayes,</hi> 1 <hi>Chron.</hi> 23.1. Good men doe good to the laſt, yea are beſt at laſt, as naturall bodies are quickeſt and ſtrongeſt in their motion, when they come neereſt to their center.</p>
+            <p>The ſumme is. <hi>David</hi> would have built an houſe, but though God accepted his good intention, yet by <hi>Nathan</hi> told him that he ſhould not do it, 2 <hi>Sam.</hi> 7.5. but his ſonne ſhould, <hi>ver.</hi> 12.13. Therefore <hi>David</hi> ſummons this great aſſembly, and before them bequeaths to <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> the honour of the Kingdome and of this ſervice.</p>
+            <p>In the text
+<list>
+                  <item>1 Preface to the ſpeech.</item>
+                  <item>2 matter of the ſpeech.</item>
+               </list>
+            </p>
+            <p>The preface in this word <hi>Take heed.</hi> Its an item both ſtrong or ſpiritous, and pregnant or comprehenſive. <hi>Now take heed i.e.</hi> if ever thou didſt attend heare now, and if ever thou didſt ſeriouſly minde and intend any thing, take what I am ſaying into thy moſt ponderous thoughts, and moſt vigorous reſolution, as a buſineſſe of greateſt concernment and importance which ever did or can come under thy hand.</p>
+            <p>The matter of the ſpeech is
+<list>
+                  <item>1 A commiſsion.</item>
+                  <item>2 A charge.</item>
+               </list>
+            </p>
+            <p>The commiſsion, <hi>The Lord hath choſen thee to build, &amp;c.</hi> This is the
+<list>
+                  <item>enforcement of <hi>Solomon</hi> to this work.</item>
+                  <item>warrant of <hi>Solomon</hi> to this work.</item>
+                  <item>encouragement of <hi>Solomon</hi> to this work.</item>
+               </list>
+            </p>
+            <p>He may, hee muſt doe it becauſe commanded, and hath This to en<g ref="char:EOLhyphen"/>courage
+<list>
+                  <item>1 Hee is choſen to it: its a choyce favour.</item>
+                  <item>2 By God. Here is the
+<list>
+                        <item>higheſt co<g ref="char:cmbAbbrStroke">̄</g>miſsio<g ref="char:cmbAbbrStroke">̄</g>.</item>
+                        <item>beſt ſecurity.</item>
+                     </list>
+                  </item>
+                  <item>3 To build him an houſe: it was the moſt honourable ſervice that could be.</item>
+               </list>
+            </p>
+            <pb facs="tcp:156974:7"/>
+            <p>My purpoſe is to ſpeake chiefely of the <hi>charge,</hi> In which two things are requi<g ref="char:EOLhyphen"/>red of <hi>Solomon,</hi>
+               <list>
+                  <item>1 reſolution. <hi>Be ſtrong.</hi>
+                  </item>
+                  <item>2 execution. <hi>Doe it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt is Reſolution. The word expreſsing it, im<g ref="char:EOLhyphen"/>porteth a vigorous and magnanimous will, a will in<g ref="char:EOLhyphen"/>tenſely and couragiouſly bent to the buſineſſe, ſo ſet to it, that no diſſwaſions, ſlowth, feare, policie, covetouſ<g ref="char:EOLhyphen"/>neſſe, fickleneſſe, nor any other thing might cauſe ei<g ref="char:EOLhyphen"/>ther diverſion, or ceſſation, or interruption. So wee have <hi>Davids</hi> owne comment upon his owne words: <hi>Be ſtrong and of good courage, dread not, nor be diſmayed,</hi> 1 Chron. 22.13. and verſe 20. of this 28. Chapter. <hi>Be ſtrong and of good courage, and do it, feare not, nor be diſmayed, for the Lord God will be with thee, hee will not faile thee nor forſake thee, untill thou haſt finiſhed all the work for the ſervice of the houſe of the Lord.</hi>
+            </p>
+            <p>
+               <hi>David</hi> in his zeale and wiſedome endeavours to be<g ref="char:EOLhyphen"/>get a fixed reſolution in his ſonnes heart.</p>
+            <p>For,
+<list>
+                  <item>1 Reſolution is the life of action.</item>
+                  <item>2 We are apt above all works to be ſlack in Gods</item>
+                  <item>3 The nature of the work required re<g ref="char:EOLhyphen"/>ſolution.
+<list>
+                        <item>1 Gods work. This requires our beſt ſtrength.</item>
+                        <item>2 Great work 1 <hi>Chr.</hi> 29.1.
+<list>
+                              <item>carefull.</item>
+                              <item>painefull.</item>
+                              <item>chargeable.</item>
+                           </list>
+                        </item>
+                        <item>3 A new work. And new works are often entertai<g ref="char:EOLhyphen"/>ned either with
+<list>
+                              <item>fickleneſſe.</item>
+                              <item>fearfulneſſe.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>The ſecond part of the charge is execution, <hi>Doe it.</hi>
+            </p>
+            <p>Which hath in it a tye to 3 things. Do it
+<list>
+                  <item>1 preſently.</item>
+                  <item>2 fully: the word is, <hi>perfice.</hi>
+                  </item>
+                  <item>3 regularly.</item>
+               </list>
+            </p>
+            <p>The houſe muſt not be built after his fancie, but Gods modell: <hi>David gave
+<pb facs="tcp:156974:8"/> to Solomon his ſonne the patterne of, &amp;c.</hi> ver. 11. <hi>the patterne which he had by the ſpirit,</hi> ver. 12.</p>
+            <p>Matters of worſhip are never left to mans liberty. God onely appoints the matter, manner, and meanes of his worſhip. And theſe are like a connex propoſition, wherof the denial of one part is the denial of the whole: Though wee offer true worſhip for the matter, if yet according to mans will or reaſon, God doth not owne it. <hi>Eſ.</hi> 1.12, 13, 14. <hi>Eſay</hi> 58. If a man order his Taylor to make him a ſute, though he bring the garment for kind according to order, but for faſhion and ſize otherwiſe, its not allowed.</p>
+            <p>That which I commend out of theſe words is, that they that are choſen of God to do great things for him, ſhould reſolve and doe them.</p>
+            <p>Firſt of the reſolution: This muſt be when any thing is committed of God to us to be done for him. Reaſons.</p>
+            <p n="1">
+               <note place="margin">Ioſh. 1.6.7.9.18. Deut. 31.6. 1 Sam. 4.9 1 Chro 22.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. 2 Chro 15.7. Hag 2.4.</note>1 Where no reſolution is raiſed upon a matter pro<g ref="char:EOLhyphen"/>poſed, there is either reluctance, which clearely ought to be farre from us when God commandeth: or pen<g ref="char:EOLhyphen"/>dulouſneſſe of heart, This alſo hath no juſt place in this caſe. For the heart is never rationally pendulous and wavering but in things dubious. Now all doubts which give a ſtop or barre to the will, are either from <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> or <hi>Prudence.</hi>
+            </p>
+            <p>If the queſtion be in the conſcience, it muſt be con<g ref="char:EOLhyphen"/>cerning either the lawfulneſſe of the thing, in reſpect of the ſubſtance or circumſtances; in which caſe its im<g ref="char:EOLhyphen"/>poſsible but that the heart by how much the better it is, ſhould be in a wavering and trembling ſtate, being dubious, <hi>(q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad duas vias)</hi> as a man at two wayes not knowing which to chooſe. But in things committed of God to us, here can be no ſuch quaeres, becauſe
+<pb facs="tcp:156974:8"/> he is ſupreame, the Lord, Judge, and rule of all.</p>
+            <p>Or elſe the queſtion is whether the thing be neceſſa<g ref="char:EOLhyphen"/>rie. And indeed often, things come with warrant with<g ref="char:EOLhyphen"/>out command. In which caſe men have a latitude, and may, and doe, act or not act ſometimes out of meere li<g ref="char:EOLhyphen"/>berty, ſometimes upon intercurrent reaſon.</p>
+            <p>But when God appoints, here is no roome left for ſuch agitations, but the caſe is cleare, all things com<g ref="char:EOLhyphen"/>manded are neceſſary: Gods command is the rule and ſpring of neceſſity.</p>
+            <p>Sometimes the queſtion may be in prudence: hu<g ref="char:EOLhyphen"/>mane prudence is an intruding medler in Gods matters: and it is of uſe when it followeth the rule, and ſo leades the action.</p>
+            <p>But there be two evills, which uſuall fee carnall wiſedom to be of their counſell: 1, Earthly affections and reſpects. 2, Unbeliefe.</p>
+            <p n="1">1 So far as any thing in this world is a mans end, he is apt in every buſineſſe to ask; what wil it profit? what advantage doth it bring to me? great men ſay, if the Churches be ſo or ſo ordered, what compliance will it have with our honour, power, wealth. Unprofitable<g ref="char:EOLhyphen"/>neſſe is a ſtrong plea with men; <hi>Haman</hi> knew the force of this Engine, when hee to oppoſe the Jewes, ſaid, <hi>There is a certaine people, ſcattered abroad and diſperſed among the people in all the Provinces of thy Kingdome, and their lawes are divers from all people, neither keep they the Kings laws, ther<g ref="char:EOLhyphen"/>fore it is not for the Kings profit to ſuffer them, if it pleaſe the King let it be written that they may be deſtroyed.</hi> Heſt. 3.8.9. The like arrow did they ſharpen and diſcharge againſt his people. <hi>Ezr.</hi> 4. from 11. to 16.</p>
+            <p>The people alſo have the like ſpirit, weighing all by this rule of gaine, and earthly advantage. <hi>Job</hi> 21.15.
+<pb facs="tcp:156974:9"/> 
+               <hi>What profit ſhould wee have if we pray unto him?</hi> and the Pro<g ref="char:EOLhyphen"/>phet accuſeth them of his time, <hi>Yee have ſaid it is in vain to ſerve God, and what profit is it that wee have kept his ordi<g ref="char:EOLhyphen"/>nances,</hi> Mal. 3.14.</p>
+            <p>And certainly the argument is good when well ap<g ref="char:EOLhyphen"/>plied; for nothing is good but what is profitable; and every way or order of Churches which is indeed unprofitable is worthy to be refuſed. God uſeth ar<g ref="char:EOLhyphen"/>guments of like importance againſt their deviſed wor<g ref="char:EOLhyphen"/>ſhip: <hi>What profiteth the graven image?</hi> Hab. 2.18.</p>
+            <p>But now none can plead unprofitablenes in the things of God, For what ever is of him, is profitable to all, and doth not include any hurtfull quality or power of it ſelf to any ſorts or ranks of men in the world: godlines is profitable to all things, 1 <hi>Tim.</hi> 4.8. The word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which properly ſignifieth right worſhip. This is pro<g ref="char:EOLhyphen"/>fitable to all things, to the honour, ſtrength, wealth and peace of all men, (but I urge not much the etymologie.)</p>
+            <p>Let no man think hee ſhall loſe when Chriſt gaines; yet I heare men complaine, if this be the way which ſome ayme at, and if the old Fabrick ſtand not, I ſhall loſe much of mine honour, another cryeth I ſhall loſe my power, another I ſhall loſe my revenewes: But let men diſtinguiſh betwixt loſſes <hi>reall</hi> and <hi>imaginary;</hi> it's not alwayes loſſe to part with what we have enjoyed,
+<list>
+                  <item>1. When we had no propriety, or juſt title.</item>
+                  <item>2. When the things did us good in ſhew, but hurt in truth.</item>
+                  <item>3. When the thing is changed and made better.</item>
+                  <item>4. The ſuppoſed loſſe is recompenſed by a greater good. I will not apply theſe now.</item>
+               </list>
+            </p>
+            <p>What? if things goe on thus, or thus, muſt needs lear<g ref="char:EOLhyphen"/>ning die for want of reliefe? Shall contempt and po<g ref="char:EOLhyphen"/>verty
+<pb facs="tcp:156974:9"/> indeed cloath the Miniſtry? and cannot Gods houſe and the Kings ſtand together? Did not the Tem<g ref="char:EOLhyphen"/>ple and the Palace agree well in <hi>Hieruſalem?</hi> certainly Religion is the greateſt gaine and ſtrongeſt pillar of the State: For this puts all into their due order, and order gives beauty and ſtrength, and makes things moſt vi<g ref="char:EOLhyphen"/>gorous and laſting.</p>
+            <p>Therefore here is no juſt cauſe for carnall prudence to complaine, or the truly prudent to demur: but when God commands reſolve and doe it.</p>
+            <p n="2">2 Unbeliefe comes in and will be heard; and this crieth it's impoſſible: and indeed if it can be made good that a thing is indeed impoſsible, the attempt of it is unreaſonable. This was <hi>Sauls</hi> plea to <hi>David</hi> to take him off from encountring with <hi>Goliah, Thou art not able to goe againſt this Philiſtine, to fight with him, for thou art but a youth, and hee a man of warre from his youth.</hi> 1 <hi>Sam.</hi> 17.33. And it's Chriſts counſell to compare our power and our work: <hi>Which of you intending to build a tower, ſitteth not downe firſt and counteth the coſt, whether hee have ſufficient to finiſh it, leſt happily after hee hath layd the foundation, and is not able to finiſh, all that behold it, begin to mock him.</hi> Luk. 14.28, 29.</p>
+            <p>It's good when men goe to build an houſe for God, to ſee both their ſtrength and their weakneſſe, you will thus finde the work <hi>poſsible,</hi> and you may finde it <hi>diffi<g ref="char:EOLhyphen"/>cult.</hi> But difficulties ſhould add heat &amp; height to Chri<g ref="char:EOLhyphen"/>ſtian ſpirits: Gods work is not to be ſold for eaſe. If you think it impoſsible, you cannot move with quiet<g ref="char:EOLhyphen"/>neſſe, and vigor of intentions and endeavours. <hi>Num.</hi> 14.1.2. We find the people in their travels, weeping, cry<g ref="char:EOLhyphen"/>ing, murmuring, But for what? Wee have the cauſe, <hi>Cap.</hi> 13.32. the ſpies caſt the block of impoſsibility in
+<pb facs="tcp:156974:10"/> their way, for they ſaid, <hi>Wee are not able to goe up againſt the people, for they are ſtronger then wee.</hi>
+            </p>
+            <p>Let it be conſidered how impertinent and unreaſon<g ref="char:EOLhyphen"/>able it is to object impoſsibilities to Gods command.</p>
+            <p n="2">2 <hi>Reaſon.</hi> Conſider what reſolution is. It's a firme efficatious will, to proſecute ſome thing as worthy and neceſſary. For where worth and neceſsity doe not en<g ref="char:EOLhyphen"/>force, the will is not bent.</p>
+            <p>Hence I inferre, 1 That where men reſolve not on Gods work, the vote of their minde and thoughts is, that it is needleſſe and worthleſſe. And hee cannot be good that commands not good, ſo it amounts to a re<g ref="char:EOLhyphen"/>jecting of God.</p>
+            <p n="2">2 As reſolution is from reaſon, ſo non-reſolution, and reluctance; therefore when God prevailes not in his demands, ſomething is at that time of more weight with us then God.</p>
+            <p n="3">3 When men purpoſe not, they want root to give life to their endeavours. For reſolution is the effica<g ref="char:EOLhyphen"/>tious ſpring of action. A worke undertaken without reſolution will want a two-fold excellencie:</p>
+            <p n="1">1 It will not be compleat; an arrow weakly ſhot, will fall ſhort of the mark.</p>
+            <p n="2">2 Nor conſtant: weak things are ſhort liv'd.</p>
+            <p n="3">3 <hi>Reaſon.</hi> God looketh more at the will then the work.</p>
+            <p>For ſo much wil, ſo much ſtrength, &amp; ſo much truth. What is obedience but an act of the will? and by how much our actions exceed our wills, by ſo much the more we are hypocrites in the things which we doe.</p>
+            <p>Therefore I conclude this firſt branch of the point, that reſolutions are neceſſary to ſuch whom God chooſeth to doe his work.</p>
+            <pb facs="tcp:156974:10"/>
+            <p>The ſecond branch is execution. This alſo is ne<g ref="char:EOLhyphen"/>ceſſary when God calls to work, it's not enough to reſolve, but we muſt doe it.</p>
+            <p>
+               <hi>Reaſon</hi> 1. Elſe reſolution is not onely vaine but hurtfull, encreaſing our ſin. 1. Becauſe here, ſin is againſt much light: the command muſt needs come with much evidence when it wrappeth the will into ſuch an height.</p>
+            <p n="2">2 Againſt much engagement: For a reſolution upon a command hath the force of a covenant. The covenant of eternall life is made by the tacit and in<g ref="char:EOLhyphen"/>ward working of the will, which is the anſwer of a good conſcience towards God. 1 <hi>Pet.</hi> 2.21. By in<g ref="char:EOLhyphen"/>ternall acts we ſpeak to God, thoſe ſilent motions are the language by which we converſe with God, as by words with men: men may pray when they ſay nothing. And ſo they may promiſe to God when they onely purpoſe, the yeelding of the heart to the command is ſpeaking in effect: that in 1 <hi>Kings</hi> 5.5. I <hi>purpoſe</hi> to build an houſe, is in the Hebrew, and in the margin, I ſay. So that not to fulfill our pur<g ref="char:EOLhyphen"/>poſes is to falſifie our word with God. Purpoſes are expreſſed by <hi>cleaving: Acts</hi> 11.23. Reſolution in the things of God, is the wedding and betroathing of the heart to them, therefore after to deſert them, is to be guilty of an unjuſt and violent divorce.</p>
+            <p>
+               <hi>Reaſon</hi> 2. Not purpoſes, but actions are recom<g ref="char:EOLhyphen"/>penced. Indeed where we have after our purpoſes for God, either a diſcharge or a prohibition from God either by 1 Word, or 2 Providence.</p>
+            <p>Leaving the thing clogged with impoſſibilities, there good purpoſes are accepted though they be
+<pb facs="tcp:156974:11"/> not acted: ſo it was in <hi>Davids</hi> caſe. 2 <hi>Sam.</hi> 7. But where we can, there, except we obey the command even to execution of it, God will not recompence our purpoſes. Yea, we cannot make up our loſſe by reſolution, which we ſuſtaine by not acting. There<g ref="char:EOLhyphen"/>fore we when we reſolve, <hi>muſt performe the doing of it, that as there is a ready minde to will, ſo there may be a per<g ref="char:EOLhyphen"/>formance alſo.</hi> 2 Cor. 8.11.</p>
+            <p>
+               <hi>Reaſon</hi> 3. God purpoſeth and doth performe to us: <hi>Bleſſed be the Lord that hath given reſt to his people Iſrael according to all that he promiſed, there hath not failed one word of all his good promiſe which hee promiſed by the hand of Moſes his ſervant.</hi> 1 Kings 8.56. See how con<g ref="char:EOLhyphen"/>ſtant and punctuall God is, and what a perfect har<g ref="char:EOLhyphen"/>mony betwixt his word and work, what he purpo<g ref="char:EOLhyphen"/>ſeth he compleatly performeth. <hi>Joſhua</hi> expreſſeth it yet more fully: <hi>Not one thing hath failed of all the good things which the Lord your God ſpake concerning you, all are come to paſſe unto you, and not one thing hath failed.</hi> Chap. 23.14. Therefore wee alſo ſhould walk to<g ref="char:EOLhyphen"/>wards God with truth, aequableneſſe, and certainty.</p>
+            <p>
+               <hi>Reaſon</hi> 4. What we purpoſe is either due to God or not; now there is no queſtion of the debt when God demands: and if it be due, it is injuſtice not to performe, and its dangerous to run into debt when we have to pay. Therefore wee ſhould ſay as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> I have ſworne and I will performe it, &amp;c. <hi>Pſal.</hi> 119.106.</p>
+            <p>Thus having runne over the point, by demon<g ref="char:EOLhyphen"/>ſtrating the neceſsity both of reſolution and execu<g ref="char:EOLhyphen"/>tion, when we have a commiſsion and charge to doe for God, I come to application.</p>
+            <pb facs="tcp:156974:11"/>
+            <p>I will take up this charge which <hi>David</hi> gave his ſonne upon you. Its a like ſeaſon. A time of Par<g ref="char:EOLhyphen"/>liament and ſolemne aſſembly as then; here is a like work lying in your hands, that an houſe be built for the Lord; and you alſo have commiſsion; for the Lord hath choſen you to build him an houſe, be <hi>ſtrong therefore and doe it.</hi>
+            </p>
+            <p>Suffer me here to ſpeak a little of the work; <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> was to build an houſe for God, but that houſe was but a type of that which is now to be built. Your work is to help that the Churches of Chriſt may be rightly framed and formed, each Church is called an houſe of God. 1 <hi>Tim.</hi> 3.15.</p>
+            <p>God hath three houſes. 1 Coeleſtiall, built for the Saints by himſelfe, <hi>Heb.</hi> 11.10.</p>
+            <p n="2">2 Myſticall, inviſible, built by himſelfe for him<g ref="char:EOLhyphen"/>ſelfe. <hi>Eph.</hi> 2. <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3 Inſtituted, viſible, built for himſelfe and the Saints, that in it they might enjoy each other.</p>
+            <p>This is compared to an houſe, in reſpect of
+<list>
+                  <item>conſtitution.</item>
+                  <item>end.</item>
+               </list>
+            </p>
+            <p n="1">1 For conſtitution: as in an houſe there is 1 qua<g ref="char:EOLhyphen"/>lification of matter. 2 Combining and knitting it together;</p>
+            <p>So in a Church there muſt bee 1 matter qua<g ref="char:EOLhyphen"/>lified, and prepared for ſuch ends to which a Church is appointed: it muſt be of that nature as may be apt to knit with the building, and to contri<g ref="char:EOLhyphen"/>bute ſomething to it. Its prepoſterous and unrea<g ref="char:EOLhyphen"/>ſonable to heap on promiſcuouſly ſtones and ſtraw, ſtubble and timber, without judgement of the fit<g ref="char:EOLhyphen"/>nes of the matter to conduce to the common frame.
+<pb facs="tcp:156974:12"/> When at the temple, the materialls were prepared before it was brought thither, ſo that there was nei<g ref="char:EOLhyphen"/>ther hammer, nor axe, nor any toole of iron heard in the houſe while it was in building. 1 <hi>Kings</hi> 6.7. ſo in this ſpirituall Temple, the building ſhould conſiſt of perſons fitted for it, they ſhould be living ſtones, 1 <hi>Pet.</hi> 2.5.</p>
+            <p>All ſocieties are compoſed with choyce, the members of them are ſuch as agree in the ſame common nature, and in the ſame fundamentall lawes of that ſociety. So eccleſiaſticall bodies are to con<g ref="char:EOLhyphen"/>ſiſt of congruous matter; it's the rule of all other bodies, whether naturall, or civill. Not that Chur<g ref="char:EOLhyphen"/>ches have a power of infallible judgement, not in<g ref="char:EOLhyphen"/>fallibility but wiſedome with love is required in their judgment of perſons to be admitted: they muſt be ſuch of whom we may be able to ſay of them as the Apoſtle of the Philippians, of whom he ſaid, <hi>It is meet for me to think this of you all.</hi> Phil. 1.7.</p>
+            <p n="2">2 A Church is a combined company: for many without conjunction are a multitude not a corpora<g ref="char:EOLhyphen"/>tion. As many ſtones and timbers are a heape, but not an houſe except they be fitted and joyned toge<g ref="char:EOLhyphen"/>ther: as a naturall body is a multitude in which the members by conjunction become one, ſo is the Church: from the head all the body is by joynts and bands knit together, <hi>Col.</hi> 2.19. And in Chriſt the Church is ſaid to be built together to be an habita<g ref="char:EOLhyphen"/>tion for God. <hi>Eph.</hi> 2.22.</p>
+            <p>Theſe bands are either ſuch as tye to Chriſt the head and the foundation, faith and the ſpirit. This makes members of the Church Catholick, which is
+<pb facs="tcp:156974:12"/> called the <hi>generall aſſembly, Heb.</hi> 12.23. conſiſting of all Saints in heaven and in earth, <hi>Eph</hi> 1.10. which is called the <hi>whole family in heaven and earth, Eph.</hi> 3.15.</p>
+            <p>Or they are ſuch as tye the Saints among them<g ref="char:EOLhyphen"/>ſelves, as in a building the materialls are not onely knit to the foundation but to themſelves. Theſe tyes are (1) ſuch as conſtitute a Church, <hi>i. e.</hi> conſent to live together in communion. There is no other way imaginable by which divers perſons can be ei<g ref="char:EOLhyphen"/>ther one family, or one City, or one kingdom, which never were one, but by conſent; and how ſhould di<g ref="char:EOLhyphen"/>vers perſons who before were free, come to have any juſtly exerciſing any power among them, but by conſent? This therefore muſt be the bond to knit divers Saints into one body. And a Church muſt be knit together, elſe it will be but a caſuall looſe company without order and rule. When it is or<g ref="char:EOLhyphen"/>derly gathered and compoſed, it becomes an houſe to Chriſt, for his inſtituted worſhip, though not on<g ref="char:EOLhyphen"/>ly as the myſticall Church is for naturall worſhip. (2) Such as doe conſerve; <hi>i.e.</hi> mutuall love, <hi>which is the bond of perfectneſſe.</hi> Col. 3.14. This preſerves the unity, peace, and order of a Church.</p>
+            <p>Secondly, as the Church is called the houſe of God in reſpect of conſtitution, ſo alſo in reſpect of the end.</p>
+            <p n="1">1 For his dwelling. <hi>In Chriſt yee are knit together for an habitation of God through the ſpirit,</hi> Eph. 2.21. Though he fill all places, yet his preſence is with the Churches with more complacence; <hi>The Lord hath choſen Sion, he hath deſired it for his habitation, This is my reſt for ever, here will I dwell, for I have deſired it,</hi>
+               <pb facs="tcp:156974:13"/> Pſal. 131.13, 14. He dwelt in <hi>Hieruſalem</hi> the ſhadow of theſe Churches, out of choyce, &amp; with a doubled deſire, <hi>I have deſired it, I have deſired it.</hi>
+            </p>
+            <p>And as he dwels here with complacence, ſo with beneficence; <hi>I will abundantly bleſse her proviſion, I will ſatisfie her poore with bread, I will alſo cloath her Prieſts with ſalvation, and her Saints ſhall ſhout aloud for joy.</hi> ver. 15.16. Plenty and ſafety is promiſed to Chur<g ref="char:EOLhyphen"/>ches, ſo much as to cauſe the greateſt joy. In theſe ſocieties it is where God <hi>commandeth the bleſsing and life for evermore,</hi> Pſal. 131.3.</p>
+            <p n="2">2 For his honour: poore mens houſes are for ne<g ref="char:EOLhyphen"/>ceſſity, but great men and Princes have houſes for honour alſo: Kings have 1. houſes of judgement, where they exerciſe juſtice and judgement. So is the Church, the place of the power and judge<g ref="char:EOLhyphen"/>ment of Chriſt: it's called his <hi>throne,</hi> Jerem. 3.17. which is the ſeat of honour and majeſtie.</p>
+            <p n="2">2 Kings have their treaſuries, <hi>Eſay</hi> 39.2. In which they keep their treaſure, which is the glory of Kings. And the Church is called the houſe of Gods glory. <hi>Eſay</hi> 60.7. The place where hee layeth his pretious treaſures.</p>
+            <p n="3">3 They have their armories; the Church alſo is Gods military houſe: here are thoſe ſpirituall weapons which are mighty through God, 2 <hi>Cor.</hi> 10.4. His Saints have here thoſe armes by which they defend themſelves in their ſpirituall warfare, and obtaine great conqueſts againſt the world, againſt their luſts, and Satans power.</p>
+            <p>Much ſhould bee ſaid concerning the order and government of this houſe, but time faileth.</p>
+            <pb facs="tcp:156974:13"/>
+            <p>This then (oh yee worthies) is the houſe which muſt be built, you are choſen of God, and us all, to put your hands to this great and deſired vvork; take heed vvhat you doe, becauſe you are in ſtead of the nation, ſo that vvhat you doe is nationall. I ſhall ſpeak to you in the vvords vvhich <hi>Jehoſophat</hi> ſpake to the Judges. <hi>Take heed what you doe, for you judge not for man but for the Lord, who is with you in the judgement, wherefore now let the feare of the Lord be upon you, take heed and doe it,</hi> 2 Chron. 19.6, 7. Take heed that no modell be commended or commanded by you, but vvhat you have from the Lord. It vvas a gracious commiſsion and licence vvhich <hi>Artaxerxes</hi> gave the Jewes. <hi>What ſhall ſeeme good to thee and to thy brethren, that doe after the will of your God,</hi> Ezr. 7.18. <hi>Whatſoever is commanded of the God of heaven, let it be diligently done, for the houſe of the God of heaven, for why ſhould there be wrath againſt the Realme of the King and his ſonnes?</hi> ver. 23.</p>
+            <p>You ſee your vvork, reſolve therefore and doe it. But let me tell you vvhat kinde of reſolutions you muſt have.</p>
+            <p n="1">1 Firme. I have great boldneſſe to preſſe this, for vvee have rich and joyfull experience of your courage, patience, and long ſuffering. And you have ſhewed more zeale for God then ever yet appeared in al your predeceſſors. And we cannot but ſay with <hi>Ezra, Bleſſed be the Lord God of our Fathers, who hath put ſuch a thing as this into your hearts to beautifie his houſe,</hi> Cap. 7.27. Wee are free from feares of you, that it ſhould be with Chriſts ſervants as it is ſaid of ſome, that they are men in the on-ſet, and women
+<pb facs="tcp:156974:14"/> in the mayn fight; as raſh ſpirits uſe to be, like ſome creatures which quickly loſe their ſting and grow dull. Maintain your reſolutions. You have cauſe; for,</p>
+            <p n="1">1 The work is great. It is for God, and for the erecting of the houſe and throne of Chriſt, and for the redeeming of captivated truths, captivated ordinances, and captivated Saints. Men venture hard for great things. You cannot have greater things to cauſe you to quit your ſelves like men. <hi>Vlyſſes</hi> went back to the Cyclops den to fetch his cap and girdle; put on courage to redeem from the Cy<g ref="char:EOLhyphen"/>clopean power that which is the glory of Chriſt, the bleſſing of the Land, the crowne of Majeſtie, and the joy of the Saints. The Heathen were very zealous for their Country and their Gods. <hi>Aeneas</hi> left his goods, yea, his father, to carry out his gods in a time of danger, and for this had the name of <hi>Pius Aeneas.</hi> When once the Capitoll was in danger by a ſiege, becauſe their bowes wanted ſtrings, the women to preſerve their gods, cut off their hair to make ſtrings. Is not our God better then theſe? Shall we not be as ſtout for Chriſt as they for idols? The peace &amp; wel<g ref="char:EOLhyphen"/>fare of many thouſands depends upon your reſolute proſecution of this matter. And not onely wee that now live, but ſucceeding ages ſhall bleſſe you, your names ſhall be as a precious ointment to the chil<g ref="char:EOLhyphen"/>dren, yea, the childrens children yet unborne. Ac<g ref="char:EOLhyphen"/>cording to that in <hi>Pſal.</hi> 102.18. <hi>This ſhall be written for the generation to come, and the people which ſhall be created ſhall praiſe the Lord.</hi>
+            </p>
+            <p n="2">2 Your &amp; our adverſaries were reſolute in their ſeaſon, no relation, worth, entreaties, mediations,
+<pb facs="tcp:156974:14"/> ſubmiſſions, lawes, nor any thing could mollifie their ſpirits, or ſtop the torrent of their cruelties; they went on without feare. And now conſider, had not they a harder pull then you, that did work againſt God and man? what is their fruit but ſhame? but the recompence of your faithfull ſervice ſhall be your eternall glory with God and man.</p>
+            <p n="3">3 Its high time to reſolve. Are not things bad enough yet? Then ſtand ſtill and ſee the ſad re<g ref="char:EOLhyphen"/>maines of religion, and your brethrens lives utterly conſumed before your eyes. Caſt your eyes upon the houſe of God among us. What darkneſſe, what pollution, what tyranny dwels here? Look not with a generall but a diſtinct view on this houſe: Behold,</p>
+            <p n="1">1. The matter of it. Is it not an uncomely confuſed heape, of ſtubble, and ſtraw, and wood, and ſilver, and gold? our own houſes are built with more judgement and choyce. I have feared leſt our judgement ſhould have beene that of the outward Court, <hi>Apoc.</hi> 11.2. to be left out, and given to the Gentiles to be troden under foot, for we have beene like it, all ſorts have beene received without diffe<g ref="char:EOLhyphen"/>rence.</p>
+            <p n="2">2. Behold the order of the houſe, ſhall I ſpeake of this before you? Then ſee 1 the rulers. Their converſation is in your eye and hand, but take in their Commiſsion alſo. Who ſent them? ſee if thoſe arguments which wee uſe againſt the papall power, turne not as darts into their breaſts. Certain<g ref="char:EOLhyphen"/>ly their title is beſt at loweſt. Its ſafeſt for them to claime it from the earth, leſt by letting that goe to claime it from heaven, they prove to be like <hi>Icarus,</hi>
+               <pb facs="tcp:156974:15"/> who by ſoaring too high did melt his wings, and was drowned in the Deeps. <hi>Camelus cornua quaerens amiſit aures,</hi> The Camell ſeeking horns loſt his eares. And they cannot juſtly complaine if they fall in the ſute, becauſe they rely upon a forged title.</p>
+            <p n="2">2 See their government. Hath it not beene like the Sive or Bolter which retaines the Branne, and works out the flower? are not the beſt things, and perſons caſt forth, and the worſt retained? yea, and becauſe wee had not evills enough (which yet did grieve and preſſe the ſpirits of thouſands) what ſu<g ref="char:EOLhyphen"/>perinductions of evill upon evill have we had? al<g ref="char:EOLhyphen"/>tars, bowings, &amp;c. Yet all were brought in with colour of order, decencie, devotion. But they were like thoſe Mice, and Emeraulds of gold which the Philiſtines offered with the Ark, 2 <hi>Sam.</hi> 6.4. I aſſure you I love not invectives, nor is any thing more con<g ref="char:EOLhyphen"/>trary to my ſpirit, nor would I ſay this, but that if we be ſilent, their dead inventions would out-cry us and condemne us.</p>
+            <p>They pretended Religion in all, and zeale for God, &amp; obtruded them as if they had had the broad ſeale of heaven for them; As <hi>Rabſecah</hi> called thoſe idolatrous Altars which <hi>Hezekiah</hi> took away, the Lords altars, Eſ. 36.7. The Jewes Groves were cal<g ref="char:EOLhyphen"/>led <hi>Aſhera,</hi> a name importing happineſſe, but its an antiphraſis, as the Oeſtrich is called <hi>Chaſida, Job</hi> 39. And as <hi>lucus a non lucendo, mons a non movendo:</hi> I ſhould not ſpeak but that I am conſtrained. <hi>Dant animum ad libere loquendum ultimae miſeriae, Liv.</hi> Extreame miſe<g ref="char:EOLhyphen"/>ries make men not afraid to ſpeake freely. Be not alwayes (oh ye worthies) ſpectators and partners in
+<pb facs="tcp:156974:15"/> theſe calamities. Is it not time to lay it to heart, and to keepe it there, till the full ſence of theſe evills cauſe you to be ſick, and to vomit them up for ever? Is the houſe of God right, where oppreſsion is in power, ſuperſtition in credit, luxurie and idleneſſe in favour, ignorance loved, pride foſtered, prophane<g ref="char:EOLhyphen"/>neſſe allowed, negligence harboured, covetouſneſſe cheriſhed? How think you? will our God longer abide ſuch an habitation, where his ſervants, chil<g ref="char:EOLhyphen"/>dren, ordinances are caſt out? Me thinks the voyce of our great ones hath been like that of the heathen, <hi>Exeant Chriſtiani, exeant Chriſtiani,</hi> let the Chriſtians goe out. As it's ſaid of <hi>Jeroboam,</hi> ſo it's true of them, <hi>Hee drove Iſrael from following the Lord, and made them ſinne a great ſinne,</hi> 2 Kings 17.21. <hi>Avolare fecit,</hi> Hee made them fly away from the Lord. Oh what ſinne hath beene by their counſell, example, hires, feares, lawes? Others that would not fly from the Lord, have fled from their Country, to ſeeke that in a ſtrange land which they could not, but ought to have had at home. <hi>Hagar</hi> the bondwoman, and her children were in poſſeſsion, but the free woman and her children either in perſecution at home, or in ex<g ref="char:EOLhyphen"/>ile abroad. And was that traſh which they have brought in, a fit price for the peace of our conſcien<g ref="char:EOLhyphen"/>ces, the ſweetneſſe of our eſtates, friends, and Coun<g ref="char:EOLhyphen"/>try? Will you then in zeale for God, and pitty to your brethren and to your ſelves, take up a reſolu<g ref="char:EOLhyphen"/>tion to vindicate our injuries and their inſolencies? Be ſtrong and doe it.</p>
+            <p n="2">2 As your reſolutions muſt be firme, ſo they muſt be ſpirituall. From higher principles then hu<g ref="char:EOLhyphen"/>mane
+<pb facs="tcp:156974:16"/> prudence. Our evills are ſore grievances in<g ref="char:EOLhyphen"/>deed, yet more afflictive to our conſciences then to our ſences. Look on them not only as preſſures on us but as ſinnes againſt God, eaſe us by righting him; leſt you be found to worke for your ſelves and not for him; Then men ſerve Chriſt indeed, when they make him, not onely the exemplary cauſe, but the finall. Doe what you doe not becauſe you muſt onely, both in prudence and in conſcience, but doe it for his glory: as <hi>David</hi> &amp; <hi>Solomon</hi> in building the houſe intended the name of the great God, 1 <hi>Kings</hi> 8.17. 2 <hi>Chron.</hi> 2.1, 4. Spirituall ends are moſt noble and moſt ſtrong.</p>
+            <p n="3">3 They muſt be willing: it's true there can be no reſolutions ſimply unwilling: But acts of the will are either mixt, or mere. Mixt are ſuch where<g ref="char:EOLhyphen"/>in upon different reſpects the will hangs both wayes; ſo a man may upon ſome reaſon reſolve on that which he fully abhorreth, as in a gangraene to en<g ref="char:EOLhyphen"/>dure the exciſion of a limb. But to reſolve thus for God, is rather to be patients then agents for him, its rather to be ſick of God then true to him. Labour for <hi>Davids</hi> ſpirit, <hi>who ſet his affection</hi> to the building of the houſe, 1 <hi>Chron.</hi> 29.3.</p>
+            <p>Be not onely ſubject to God but zealous for him. It was <hi>Davids</hi> temper who was the type. <hi>The zeale of thine houſe hath eaten me up,</hi> Pſal. 69.9. And Chriſts temper who is the ſubſtance, <hi>Ioh.</hi> 2.17. worke as friends. If it be onely in your heads it will vaniſh, but the impreſsions of love are deepe: Say with <hi>Mo<g ref="char:EOLhyphen"/>ſes, The Lord is my ſtrength and ſong, and he is become my ſalvation, hee is my God and I will prepare him an habita<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb facs="tcp:156974:16"/> Exod. 15.2. Zeale will make you men of might, and your counſells and endeavours as an arrow ſhot from a ſtrong arme which returneth not empty.</p>
+            <p n="4">4 Speedy. For,</p>
+            <p n="1">1 It's the greateſt worke you have to doe. Therefore give it
+<list>
+                  <item>priority.</item>
+                  <item>quick diſpatch.</item>
+               </list>
+            </p>
+            <p>I know you are wiſe, I preſcribe not an abſolute or<g ref="char:EOLhyphen"/>der. Important things are often reſpectively ſuch: A leſſe thing in it ſelf may be at ſome time of greateſt importance, &amp; of right ſhould be firſt admitted. Do what you can. Chriſt will be content to ſtay till you can doe his buſineſſe. But ſtill minde this, and ayme at this, and do all in order to this. I may ſay to you as <hi>David</hi> to <hi>Ahimelech, The Kings buſineſſe requireth haſte,</hi> 1 Sam. 21.8. Doe things in Chriſts order, Seek firſt the Kingdome of heaven. You may mind your owne houſes, but not too much, ſay with <hi>David, See now I dwell in an houſe of Cedar, but the Ark of God dwel<g ref="char:EOLhyphen"/>leth within curtaines,</hi> 2 Sam. 7.2. God ſtands much up<g ref="char:EOLhyphen"/>on time, and expects to be firſt ſerved. Therefore he chides the Jewes, and ſorely puniſheth them for breach of this order. Is it time for you, oh yee, to dwell in your ſeiled houſes, and this houſe lie waſt? <hi>Hag.</hi> 1.4. It's an angry ſpeech. Other cauſes may and muſt wayt, ſay to them as <hi>Nehemiah</hi> when hee was building an houſe for God. I am doing a great work ſo that I cannot come downe, why ſhould the work ceaſe while I leave it and come down to you? <hi>chap.</hi> 6.3. I confeſſe, that things that are firſt in in<g ref="char:EOLhyphen"/>tention are laſt in execution, but then they are ſtill moving till they come to perfection.</p>
+            <p n="2">2 Delayes are dangerous. For, 1 affections may
+<pb facs="tcp:156974:17"/> coole, the beſt may and the reſt will. Some men are hot as fire, others as iron, rather heated then hot, take the ſeaſon and ſtrike while the iron is hot. God ſometimes for ſome oportunity of ſervice gives a fervour of ſpirit, but if the lock of oportunity be cut off, you will as <hi>Sampſon</hi> loſe your ſtrength and become like other men <hi>Judg.</hi> 15.5.17.</p>
+            <p n="2">2 Rubs riſe by delayes. A ſubtill enemie, if hee have but the onely advantage of time, will gaine much even in a deſperate cauſe. And they ſay the bitings of dying beaſts are moſt deadly.</p>
+            <p n="3">3 Wee are ſpeedy with God: Lord heale her <hi>now,</hi> ſaith <hi>Moſes, Numb.</hi> 12.13. And <hi>David</hi> crieth for haſte, <hi>Oh my ſtrength haſte thee to help mee,</hi> Pſal. 22.19. And God doth make haſte to our good, <hi>Eſ.</hi> 16.5. For love is quick.</p>
+            <p n="4">4 God hath ſtayed long.</p>
+            <p n="5">5 Unanimous. Let there be none
+<list>
+                  <item>adverſe.</item>
+                  <item>ſlothfull.</item>
+                  <item>unfaithfull.</item>
+                  <item>fearefull.</item>
+               </list>
+            </p>
+            <p>You have the honour, and we the happineſſe of a bleſſed conſpiration of your hearts and hands hi<g ref="char:EOLhyphen"/>therto. Be ſtill one, and more one; That you may meet as many ſtreames in one channell, and prove a conquering torrent. Sands are ſmall things, yet be<g ref="char:EOLhyphen"/>ing united they can break the proudeſt ſhips.</p>
+            <p>Chriſt is among you, and knoweth whoſe hearts are with him, he ſeeth and heareth all your counſels, motions, debates, and votes. Hee will ſay to the faithfull, Well done good &amp; faithfull ſervant; but to others, had it not been for thee, ſuch a cauſe of mine
+<pb facs="tcp:156974:17"/> had proſpered, ſuch ſervants of mine relieved, my houſe had been built but thy hand was againſt it. By how much the greater you are, by ſo much the more you owe; let it not be ſaid of you, others were wil<g ref="char:EOLhyphen"/>ling, <hi>but their nobles put not their necks to the work of the Lord.</hi> Nehem. 3.5.</p>
+            <p>I draw to an end. To quicken you to the work, Conſider. You may doe this thing. Chriſt may have his houſe built. You have power of 1 Ability. 2 Authority. You cannot think our preſent diſci<g ref="char:EOLhyphen"/>pline is by divine law, then you may remove, ex<g ref="char:EOLhyphen"/>cept you think it moſt convenient. But how is that convenient, which Miniſters, good men, bad men, al<g ref="char:EOLhyphen"/>moſt all men have complained of? You may by your power make it neceſſary, but it will never be convenient, and how ill will the oxen draw when their yoakes gall them? You have ſeene the experi<g ref="char:EOLhyphen"/>ence of this diſcipline, theſe rites and orders for ma<g ref="char:EOLhyphen"/>ny yeares.</p>
+            <p>You may do worthily for God and for your bre<g ref="char:EOLhyphen"/>thren; you are the fountaine of law. When a beaſt knoweth his ſtrength he will not ſerve but rule, our adverſaries did ſo. Doe you ſee now, Say as <hi>Maxi<g ref="char:EOLhyphen"/>minus,</hi> by how much the greater I am, by ſo much the more I will doe. They ſay there is a fiſh that hath a ſword but no heart; but I hope better things of you.</p>
+            <p>The work is not ſo hard as many either out of needleſſe feare, or craft doe pretend.</p>
+            <p n="1">1 You have many friends. The Saints at home and abroad that waſt themſelves in prayer for you, that bleſſe you with <hi>Judah</hi> his bleſſing, <hi>Let his hands be ſufficient for him, and be thou an help to him from his ene<g ref="char:EOLhyphen"/>mies.</hi>
+               <pb facs="tcp:156974:18"/> Deut. 33.7. Yea, God is with you. As <hi>Moſes</hi> ſaid of <hi>Acher,</hi> There is none like unto the God of <hi>Jeſhu<g ref="char:EOLhyphen"/>run,</hi> who rideth upon the heaven in thy help. <hi>ver.</hi> 26.</p>
+            <p n="2">2 Matter is ready for the building: when <hi>Solomon</hi> built his Temple, he ſent for his pretious ſtones from <hi>Arabia,</hi> for Cedars from <hi>Lebanon,</hi> for gold from <hi>Ophyr,</hi> for ſpices from <hi>Sheba</hi> and <hi>Arabia.</hi> But here is all ready: <hi>England</hi> is as <hi>Lebanon,</hi> your Cedars are at hand ready hewed, and want onely laying into the building.</p>
+            <p n="3">3 You ſhall be at no charge. <hi>Solomons</hi> Temple was very coſtly, you need part with nothing for this work; we ſhall be no loſers in any thing but ſinne and ſorrow. It may be the fall of the old frame may hurt ſome, as the houſe which <hi>Sampſon</hi> pulled downe which killed ſome of the Lords of the Phi<g ref="char:EOLhyphen"/>liſtines, <hi>Judg.</hi> 16.30.</p>
+            <p>Truly they have put you to grinde their griſt, but they have not put out your eyes, you need not to be led to the pillars of their houſe. Therefore doe va<g ref="char:EOLhyphen"/>liantly for your ſelves, your people, and your God. Expect their anger; <hi>Luther</hi> found it, <hi>Eraſmus</hi> gives the reaſon, for he medled with the Popes Miter and the Monks bellies.</p>
+            <p>In a word, as you may doe it, doe it for it is ex<g ref="char:EOLhyphen"/>pected; of God, of man, good men, your friends, your friends afflicted long and ſore. Let me add but theſe two Counſells.</p>
+            <p n="1">1 Doe it well. Doe your work throughly. Let the building be compleat, Caſt out all the rubbiſh, for we may ſay as they, <hi>There is much rubbiſh, ſo that we are not able to build,</hi> Nehem. 4.10. Ordinances are
+<pb facs="tcp:156974:18"/> beſt when pureſt: ayme high, <hi>Altius ibunt qui ad ſum<g ref="char:EOLhyphen"/>mum nituntur.</hi> Hitherto the work hath been done by the halfes. Our fore-fathers intended that which is reſerved for you. Better our burthens were encrea<g ref="char:EOLhyphen"/>ſed then only eaſed, for extream evils enforce relief.</p>
+            <p n="2">2 Doe it now. For,</p>
+            <p n="1">1 It hath bin long expected, with prayers, teares, groanes, and if Gods houſe be now built, wee ſhall be as thoſe that dreame; and ſay wondring as hee, <hi>What hath God wrought,</hi> Numb. 23.23. Wee ſhall joy in our God as they when the foundation of the tem<g ref="char:EOLhyphen"/>ple was layd, <hi>Ezr.</hi> 3.10, 11.</p>
+            <p n="2">2 God ſhakes the old building, by diſcovering the abominations thereof, and by a miraculous turn upon the peoples ſpirits; Doe not they crie, downe with it, downe with it? And <hi>vox populi eſt vox Dei.</hi>
+            </p>
+            <p n="3">3 God hath built your houſes: they did not long ſince ſhake as in an earthquake, you know not what batteries were laid againſt them, but you are now in peace.</p>
+            <p n="4">4 You may want another ſeaſon; and may ne<g ref="char:EOLhyphen"/>ver ſee Gods houſe nor enjoy your owne: remem<g ref="char:EOLhyphen"/>ber Chriſts words to them, when he ſaw the Citie and wept over it, <hi>Saying, if thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace; but now are they hid from thine eyes. For the dayes ſhall come upon thee that thine enemies ſhall caſt a trench about thee, and compaſſe thee round, and keep thee in on every ſide; and ſhall lay thee even with the ground, and thy children within thee, and they ſhall not leave in thee one ſtone upon another, becauſe thou kneweſt not the day of thy viſitation.</hi> Luk. 19.41, 42, 43, 44.</p>
+            <p n="5">
+               <pb facs="tcp:156974:19"/>5 This is the time.</p>
+            <p n="1">1 Gods time is the preſent time.</p>
+            <p n="2">2 A ſeaſon of mercy. God is doing good, take therefore the oportunity. Say as <hi>David,</hi> Hee that hath delivered mee from the Lyon and the Beare, ſhall deliver me out of the hands of this uncircum<g ref="char:EOLhyphen"/>ciſed Philiſtine.</p>
+            <p n="3">3 It's like now the ſet time of God is come for the fall of <hi>Babel,</hi> &amp; the reformation &amp; deliverance &amp; en<g ref="char:EOLhyphen"/>largement of the Churches of Chriſt. In the 12 of <hi>Dan.</hi> we have a Prophecy of the deliverance of <hi>Iſrael:</hi> The time of it is in <hi>ver.</hi> 11. <hi>From the time that the dayly ſacrifice ſhall be taken away, and the abomination that ma<g ref="char:EOLhyphen"/>keth deſolate ſet up, There ſhal be</hi> a 1290 dayes, <hi>i.e.</hi> years. This ſeemes to be in <hi>Iulian</hi> the Apoſtates time, who about 360 yeares after Chriſt, would have had the Jewiſh Temple built, which is the abomination, and the abomination of deſolation: for God did deſtroy it with terrible ſtormes, and fires, with the builders, And the Jewes were after in greater calamity then before. There is no time ſo like to be the time which <hi>Daniel</hi> meant, as this; For we know no memorable thing of this kind among the Jewes, but in <hi>Antiochus</hi> his time, and in <hi>Titus Veſpaſian</hi> his dayes; but if you add to thoſe times the number of 1290 yeares, the dayes are long ſince expired; therefore it muſt be a time which may with addition of theſe numbers make the thing yet to come. And ſo with this way of account Maſter <hi>Brightman</hi> and others alſo doe accord; for if you add 1290 to 360, in which time the abomination of deſolation was, it caſts the beginning of the accompliſhment of this Prophecie,
+<pb facs="tcp:156974:19"/> upon the 1650 yeare: ſo that the time of their delive<g ref="char:EOLhyphen"/>rance is not far off. But <hi>Rome</hi> muſt fall before that. Therfore I conclude, that this is an hopefull ſeaſon. Take heed of delayes. God was angry becauſe they ſaid, <hi>The time is not come, the time that the Lords houſe ſhould be builded,</hi> Hag. 1.2. Therefore they could not proſper; but as ſoone as they began, then God ſaid, <hi>From this day will I bleſſe you,</hi> Hag. 2.19.</p>
+            <p>I will now ſay no more but what <hi>David</hi> ſaid to <hi>Solomon, Be ſtrong and of a good courage, and doe it. Feare not, nor be diſmayed, for the Lord God, even my God, will be with thee, hee will not faile thee nor forſake thee, untill thou haſt finiſhed all the work for the ſervice of the houſe of the Lord,</hi> 1 Chron. 29.20.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
